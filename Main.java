@@ -29,7 +29,7 @@ public class Main {
 		System.out.println("\nEl resultado de la RESTA es: " + resultadoResta);
 		System.out.println("\nEl resultado de la MULTIPILICACION es: " + resultadoMult);
 		System.out.println("\nEl resultado de la DIVISION es: " + resultadoDiv);
-		System.out.println("\nEl RESTO es: " + resultadoDiv);
+		System.out.println("\nEl RESTO es: " + resultadoMod);
 	
 		System.out.println("\n\nEGUN ONA IZAN!!\n");
 	}
